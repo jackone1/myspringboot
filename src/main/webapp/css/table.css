@@ -1,0 +1,39 @@
+.table-main {
+border-left: 1px solid #ddd;
+width: 100%;
+}
+
+.table-main th {  
+color: #fff; 
+border-right: 1px solid #C2C4C6; 
+border-bottom: 1px solid #C2C4C6; 
+border-top: 1px solid #C2C4C6;   
+text-align: left; 
+padding:3px 10px 10px 12px;
+background: #346E9F  no-repeat;  
+} 
+
+
+
+.table-main td { 
+border-right: 1px solid #C2C4C6; 
+border-bottom: 1px solid #C2C4C6;   
+font-size:11px; 
+padding: 3px 10px 16px 12px;
+color: #4f6b72; 
+} 
+
+.table-main tr.spec { 
+border-left: 1px solid #C2C4C6; 
+border-top: 0; 
+background: #fff  no-repeat; 
+font: bold 10px; 
+} 
+
+.table-main  tr.specalt { 
+border-left: 1px solid #C2C4C6; 
+border-top: 0; 
+background: #E3E9E9 no-repeat; 
+font: bold 10px; 
+color: #797268; 
+} 

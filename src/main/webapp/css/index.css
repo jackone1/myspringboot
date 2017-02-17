@@ -1,0 +1,102 @@
+
+  	 .upload-result-prompt{ 
+  	 	    border: 2px solid #95B8E7;
+					border-radius: 10px;
+					padding: 0 25px 25px 25px;
+					margin-top: 20px;
+					width : 620px; 
+  	 }
+  	 
+  	 
+  	   	 .upload-result-prompt1{ 
+  	 	    border: 2px solid #95B8E7;
+					border-radius: 10px;
+					padding: 25px;
+					margin-top: 20px;
+					width : 620px; 
+  	 }
+  	 
+  	 .list-div-detail{
+  	 	   padding: 5px 17px;
+  	 }
+  	 
+  	 p{
+  	    font-size: 15px;	
+  	 }
+  	 
+  	 .easyui-tabs-subs{
+  	 	    padding:10px; 
+  	 }
+  	
+  	.main-bottom{
+	    position: fixed;
+		float: left;
+		text-align: center;
+		color: #fff;
+		width: 100%;
+		bottom: 0;
+}
+
+
+.flex-container {
+    display: -webkit-flex;
+    display: flex;
+    height: 80px;
+		width: 100%;
+		color: #F5F5F5; 
+		background-size: 100%;
+}
+ 
+.flex-item {  
+    height: 80px;
+    margin: 10px;
+    width : 70%;
+    min-width: 660px;
+}
+
+.flex-item_two {  
+    height: 80px;
+    margin: 10px;
+    width : 20%;
+    text-align:center;
+    min-width:150px;
+}
+
+.flex-item_three {  
+    height: 80px;
+    margin: 10px;
+    width : 6%;
+    min-width:80px;
+}
+.flex-item_four {  
+    height: 80px;
+    margin: 10px;
+    width : 20%;
+    text-align:center;
+    min-width:150px;
+}
+.flex-container a:hover{
+	   color: #f9fafb;
+	   text-decoration: none;
+}
+
+.flex-container a{
+	   color: #8bc2f2;
+	   text-decoration: none;
+}
+
+.label-font-size{
+	   font-size: 30 ;
+	   font-weight: bold;
+}
+ 
+
+span.title{
+    display:block;
+    width: 180px;
+    height:30px;
+    position:relative;
+    top: -10px;
+    text-align: center;
+    background: white;
+} 
